@@ -1,15 +1,16 @@
-# ShopStream — End-to-End Databricks Lakehouse Project
+# 🛒 ShopStream — End-to-End Databricks Lakehouse Project
 
-## 📌 Project Overview
+<p align="center">
+  <b>Batch + Streaming E-Commerce Data Engineering Pipeline on Databricks</b>
+</p>
 
-**ShopStream** is an end-to-end e-commerce Data Engineering project built on **Databricks**. The project demonstrates how raw order, customer, and product data can be ingested, cleaned, transformed, processed incrementally, and exposed through business-ready Gold tables and a Databricks dashboard.
-
-The project uses a **Medallion Architecture**:
-
-**Raw Data → Bronze → Silver → Gold → Analytics Dashboard**
-
-It also includes a separate **streaming pipeline using Databricks Auto Loader** to demonstrate incremental file ingestion and streaming transformations.
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Databricks-EF3B2D?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge">
+</p>
 ## 🎯 Project Objectives
 
 * Build a practical lakehouse pipeline on Databricks.
