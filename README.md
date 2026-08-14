@@ -277,6 +277,8 @@ The project includes a Databricks dashboard named:
 
 The dashboard provides a business-facing view of the Gold-layer data.
 
+![ShopStream Sales Dashboard](screenshots/shopstream-sales-dashboard.png)
+
 ### Revenue by Category
 
 Shows revenue performance across categories including:
