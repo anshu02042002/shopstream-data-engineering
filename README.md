@@ -346,5 +346,7 @@ ShopStream: End-to-End Databricks Lakehouse Project/
 
 **Anshu Gupta**
 
-Data Engineering | SQL | Python | PySpark | Databricks | Delta Lake
-::: 
+## Connect with Me
+
+- **GitHub:** https://github.com/anshu02042002
+- **LinkedIn:** https://www.linkedin.com/in/anshu-gupta-de
