@@ -341,9 +341,6 @@ ShopStream: End-to-End Databricks Lakehouse Project/
 * Delta Lake time travel
 * Databricks dashboards
 
-## 🎯 Interview Explanation
-
-> **ShopStream is an end-to-end e-commerce Data Engineering project that I built on Databricks using SQL, PySpark, Delta Lake and Unity Catalog. I implemented a Medallion Architecture with Bronze, Silver and Gold layers. In the Bronze layer, I ingested customer, product and order CSV files using COPY INTO. In Silver, I handled deduplication, validation, data type conversion, status standardization and revenue calculations. In Gold, I created daily revenue, category performance and customer lifetime-value datasets. I also implemented a separate streaming pipeline using Databricks Auto Loader with checkpoints and streaming Bronze, Silver and Gold tables. Finally, I built a Databricks dashboard called ShopStream Sales to visualize revenue by category and daily revenue. I also demonstrated Delta Lake time travel using table history and VERSION AS OF.**
 
 ## 👨‍💻 Author
 
